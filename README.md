@@ -1,7 +1,5 @@
 <div align="center">
-
 </div>
-
 ### Software Tester | QA | Automação com Selenium | Ciência da Computação
 
 ## 👋 Sobre mim
@@ -15,7 +13,6 @@ Cursando Bacharelado em Ciência da Computação na FSG, com formação técnica
 - 💬 Aberto a trocar ideia sobre testes, automação e qualidade de software
 
 ## 🧪 Como eu testo
-
 - Combino manual e exploratório com automação — cobertura ampla sem perder o olho crítico pra casos que só um humano pega
 - Bug bem documentado: passos pra reproduzir, evidência e severidade — sem isso o relatório não ajuda ninguém
 - Automação pensada pra durar: scripts organizados e reaproveitáveis, não só pra fazer o teste passar uma vez
@@ -28,7 +25,6 @@ Cursando Bacharelado em Ciência da Computação na FSG, com formação técnica
     <img src="https://skillicons.dev/icons?i=git,py,gherkin,postman,selenium,cypress" />
   </a>
 </p>
-
 **Base técnica**
 <p align="start">
   <a href="https://skillicons.dev">
