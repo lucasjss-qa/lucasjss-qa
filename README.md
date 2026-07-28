@@ -25,6 +25,7 @@ Cursando Bacharelado em Ciência da Computação na FSG, com formação técnica
     <img src="https://skillicons.dev/icons?i=git,py,gherkin,postman,selenium,cypress" />
   </a>
 </p>
+
 **Base técnica**
 <p align="start">
   <a href="https://skillicons.dev">
