@@ -1,5 +1,6 @@
 <div align="center">
 </div>
+
 ### Software Tester | QA | Automação com Selenium | Ciência da Computação
 
 ## 👋 Sobre mim
@@ -22,14 +23,14 @@ Cursando Bacharelado em Ciência da Computação na FSG, com formação técnica
 **Testes e automação**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,gherkin,postman,selenium,cypress" />
+    <img src="https://skillicons.dev/icons?i=git,py,gherkin,postman,selenium" />
   </a>
 </p>
 
 **Base técnica**
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,javascript,typescript,django,remix,nextjs,gcp,linux,apple,windows&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,javascript,linux&perline=7" />
   </a>
 </p>
 
@@ -46,7 +47,7 @@ Cursando Bacharelado em Ciência da Computação na FSG, com formação técnica
   <a href="mailto:dajluccas@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/lucasjss)">
+  <a href="https://www.linkedin.com/in/lucasjss">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
